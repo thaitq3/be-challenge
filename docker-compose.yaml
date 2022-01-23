@@ -1,0 +1,38 @@
+version: '3.9'
+x-common:
+  &common
+  environment:
+    MYSQL_USER: challenge
+    MYSQL_PASSWORD: challenge
+    MYSQL_ROOT_PASSWORD: admin
+    MYSQL_DATABASE: challenge
+
+services:
+  mysql:
+    <<: *common
+    build:
+      context: .
+      dockerfile: mysql.Dockerfile
+    ports:
+      - "3306:3306"
+
+  server:
+    <<: *common
+    build:
+      context: .
+      dockerfile: server.Dockerfile
+    depends_on:
+      - mysql
+      - redis
+    ports:
+      - "8080:8080"
+
+  redis:
+    image: redis:6.2-alpine
+    restart: always
+    ports:
+      - '6379:6379'
+    command: redis-server --save 20 1 --loglevel warning
+
+volumes:
+  dbstorage:

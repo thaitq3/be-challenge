@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dedc278-03ff-47aa-b6e3-ba53ddd93a2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.16.12" />
+  <component name="ProjectId" id="243eT2zZrgfcxFRUVzPfQ5tZNwl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.be-challenge/docker-compose.yaml: Compose Deployment">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="be-challenge" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="crud-challenge" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build crud-challenge" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="be-challenge" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="crud-challenge" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCreateWagerHappy in crud-challenge/server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="be-challenge" />
+      <working_directory value="$PROJECT_DIR$/server" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="crud-challenge/server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCreateWagerHappy\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCreateWagerNotMonetary in crud-challenge/server" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="be-challenge" />
+      <working_directory value="$PROJECT_DIR$/server" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="crud-challenge/server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCreateWagerNotMonetary\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="be-challenge" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="crud-challenge" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="be-challenge/docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="../be-challenge/docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.be-challenge/docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Go Test.TestCreateWagerNotMonetary in crud-challenge/server" />
+        <item itemvalue="Go Test.TestCreateWagerHappy in crud-challenge/server" />
+        <item itemvalue="Go Build.go build crud-challenge" />
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1784" y="-458" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642877018172">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state x="-1784" y="-458" key="#com.intellij.fileTypes.FileTypeChooser/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642877018172" />
+    <state x="-1691" y="-544" key="#com.intellij.ide.util.MemberChooser" timestamp="1642866970293">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state x="-1691" y="-544" key="#com.intellij.ide.util.MemberChooser/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642866970293" />
+    <state width="904" height="466" key="DebuggerActiveHint" timestamp="1642907279910">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="904" height="466" key="DebuggerActiveHint/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642907279910" />
+    <state width="2966" height="507" key="GridCell.Tab.0.bottom" timestamp="1642909667603">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.0.bottom/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048855" />
+    <state width="2966" height="507" key="GridCell.Tab.0.bottom/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889053430" />
+    <state width="2966" height="507" key="GridCell.Tab.0.bottom/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909667603" />
+    <state width="2966" height="507" key="GridCell.Tab.0.center" timestamp="1642909667602">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.0.center/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048836" />
+    <state width="2966" height="507" key="GridCell.Tab.0.center/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889053428" />
+    <state width="2966" height="507" key="GridCell.Tab.0.center/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909667602" />
+    <state width="2966" height="507" key="GridCell.Tab.0.left" timestamp="1642909667601">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.0.left/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048831" />
+    <state width="2966" height="507" key="GridCell.Tab.0.left/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889053426" />
+    <state width="2966" height="507" key="GridCell.Tab.0.left/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909667601" />
+    <state width="2966" height="507" key="GridCell.Tab.0.right" timestamp="1642909667602">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.0.right/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048842" />
+    <state width="2966" height="507" key="GridCell.Tab.0.right/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889053429" />
+    <state width="2966" height="507" key="GridCell.Tab.0.right/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909667602" />
+    <state width="2966" height="620" key="GridCell.Tab.1.bottom" timestamp="1642909422735">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.1.bottom/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048869" />
+    <state width="2966" height="620" key="GridCell.Tab.1.bottom/-3008.-1085.3008.1667/0.25.1680.1025@-3008.-1085.3008.1667" timestamp="1642893585887" />
+    <state width="2966" height="620" key="GridCell.Tab.1.bottom/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889671875" />
+    <state width="2966" height="620" key="GridCell.Tab.1.bottom/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909422735" />
+    <state width="2966" height="620" key="GridCell.Tab.1.center" timestamp="1642909422701">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.1.center/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048863" />
+    <state width="2966" height="620" key="GridCell.Tab.1.center/-3008.-1085.3008.1667/0.25.1680.1025@-3008.-1085.3008.1667" timestamp="1642893585886" />
+    <state width="2966" height="620" key="GridCell.Tab.1.center/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889671874" />
+    <state width="2966" height="620" key="GridCell.Tab.1.center/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909422701" />
+    <state width="2966" height="620" key="GridCell.Tab.1.left" timestamp="1642909422599">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.1.left/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048860" />
+    <state width="2966" height="620" key="GridCell.Tab.1.left/-3008.-1085.3008.1667/0.25.1680.1025@-3008.-1085.3008.1667" timestamp="1642893585885" />
+    <state width="2966" height="620" key="GridCell.Tab.1.left/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889671874" />
+    <state width="2966" height="620" key="GridCell.Tab.1.left/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909422599" />
+    <state width="2966" height="620" key="GridCell.Tab.1.right" timestamp="1642909422734">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="620" key="GridCell.Tab.1.right/-3008.-1085.3008.1617/0.25.1680.1025@-3008.-1085.3008.1617" timestamp="1642908048866" />
+    <state width="2966" height="620" key="GridCell.Tab.1.right/-3008.-1085.3008.1667/0.25.1680.1025@-3008.-1085.3008.1667" timestamp="1642893585886" />
+    <state width="2966" height="620" key="GridCell.Tab.1.right/-3008.-1085.3008.1667/0.25.1680.975@-3008.-1085.3008.1667" timestamp="1642889671875" />
+    <state width="2966" height="620" key="GridCell.Tab.1.right/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642909422734" />
+    <state x="-1995" y="-628" key="SettingsEditor" timestamp="1642910442834">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state x="-1995" y="-628" key="SettingsEditor/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642910442834" />
+    <state x="-1803" y="-509" width="597" height="548" key="find.popup" timestamp="1642910786041">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state x="-1803" y="-509" width="597" height="548" key="find.popup/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642910786041" />
+    <state x="-1839" y="-716" width="670" height="676" key="search.everywhere.popup" timestamp="1642871085223">
+      <screen x="-3008" y="-1110" width="3008" height="1692" />
+    </state>
+    <state x="-1839" y="-716" width="670" height="676" key="search.everywhere.popup/-3008.-1110.3008.1692/0.25.1680.1025@-3008.-1110.3008.1692" timestamp="1642871085223" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="res.Result()" language="go" />
+        <watch expression="err.Error()" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
